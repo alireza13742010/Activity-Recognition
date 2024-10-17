@@ -12,3 +12,8 @@ The detection classes are: calling, clapping, cycling, dancing, drinking, eating
                            fighting, hugging, laughing, listening_to_music, running,
                            sitting, sleeping, texting, and using_laptop.
 
+# Evaluation Results
+Training Accuracy:
+![image](https://github.com/user-attachments/assets/b87df8b5-9dc7-4806-b7e1-bba1dc08358a)
+Loss: 
+![image](https://github.com/user-attachments/assets/80f13f7d-9dc8-465d-9c45-cc5838fb493a)
